@@ -1,0 +1,39 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+198.199.240.10 ctx-aos-ddc.cgadmin.cgaoms.ad
+67.204.92.10 ctx-aos-man.cgadmin.cgaoms.ad
+67.204.107.150 ctx-gio-rth.cgadmin.cgaoms.ad
+67.204.107.150 ctx-gio-t2-rth.cgadmin.cgaoms.ad
+67.204.110.230 ctx-gio-brt.cgadmin.cgaoms.ad
+67.204.110.230 ctx-gio-t2-brt.cgadmin.cgaoms.ad
+67.204.115.150 ctx-sam-ukswi.cgadmin.cgaoms.ad
+67.204.115.150 ctx-sam-t2-ukswi.cgadmin.cgaoms.ad
+67.204.111.130 ctx-gio-nlama.cgadmin.cgaoms.ad
+67.204.111.130 ctx-sam-t2-nlama.cgadmin.cgaoms.ad
+194.115.227.130 ctx-sam-defr1.cgadmin.cgaoms.ad
+194.115.227.130 ctx-sam-t2-defr1.cgadmin.cgaoms.ad
+145.247.106.150 ctx-sam-fiesp.cgadmin.cgaoms.ad
+145.247.106.150 ctx-sam-t2-fiesp.cgadmin.cgaoms.ad
+67.204.72.230 ctx-gio-frsda.cgadmin.cgaoms.ad
+67.204.72.230 ctx-gio-t2-sda.cgadmin.cgaoms.ad
+57.78.145.141 ctx-sam-esmad.cgadmin.cgaoms.ad
+57.78.145.142 ctx-sam-t2-esmad.cgadmin.cgaoms.ad
